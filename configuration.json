@@ -1,0 +1,17 @@
+
+{
+    "environment": "test",
+    "timeout":"5000",
+    "log-level": "debug",
+    "browser": "CHROME",
+    "capabilities": {
+      "headless": false,
+      "maximizedWindow": false,
+      "setAlertBehavior":"accept",
+      "windowSize": {
+        "height": 1080,
+        "width": 1920
+    }
+    },
+    "explicit-wait": 65000
+}

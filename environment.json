@@ -1,0 +1,13 @@
+
+{
+    "headers":"application/json",
+    "test": {
+        "ui-url":"https://www.saucedemo.com/",
+        "users": {
+            "user": {
+                "username": "standard_user",
+                "password": "secret_sauce"
+              }
+            }
+    }
+}

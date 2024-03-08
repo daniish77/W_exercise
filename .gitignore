@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+main/reports/**
+reports/logs
+reports/cucumber
+README.md
+reports/coverage
